@@ -1,0 +1,28 @@
+name: FlanaganKids
+favicon: null
+layout_spectrum: 0.26464585796929896
+typography_spectrum: 0.7891672302503139
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2857964998111129
+  lightness: 0.31198082538321614
+  saturation: 0.6333477827720344
+  rhythmicContrast: 0.2286354957614094
+purpose: []
